@@ -1,4 +1,4 @@
-
+# CAPSULE RUNNER:
 
 I am Lingesh from SASTRA University, currently serving as an AR/VR student intern at Roche. This document details the creation of a 3D game application using Unity and the C# programming language. The project demonstrates several key concepts in game development.
 
